@@ -1,4 +1,3 @@
-
 var App = function App() {
   return React.createElement(
     Template,
@@ -6,7 +5,7 @@ var App = function App() {
     React.createElement(
       'h1',
       null,
-      'Main content'
+      'Press page'
     )
   );
 };
