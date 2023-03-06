@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand navbar-light bg-light">
+    <nav className="navbar navbar-expand navbar-light bg-light"> 
       <a className="navbar-brand" href="index.html">Navbar</a>
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
